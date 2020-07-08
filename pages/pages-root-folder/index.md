@@ -9,18 +9,17 @@ header:
   image_fullwidth: landing-banner.jpg
 widget1:
   title: "About us"
-  url: '/about/'
+  url: "/about/"
   image: about-thumbnail.jpg
   text: Our background information and people.
 widget2:
   title: "Our Research"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: "/research/"
   image: research-thumbnail.jpg
   text: Our Research themes, progress and results.
-  # video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "News"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: "/blog/"
   image: latest-news-thumbnail.jpg
   text: Our latest plan and activities.
 #
@@ -44,14 +43,17 @@ permalink: /index.html
 #
 homepage: true
 ---
-<!-- 
+
+<!--
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div> -->
+
 # {{site.title}}
+
 <div class="row">
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
@@ -66,7 +68,6 @@ homepage: true
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
-
 
 <div class="row">
     <div class="medium-8 columns t30">
