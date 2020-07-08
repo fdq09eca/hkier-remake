@@ -1,0 +1,21 @@
+- menu_name: "affiliation"
+
+- name: "CUHK"
+  url: "https://www.cuhk.edu.hk/"
+  title: "The Chinese University of Hong Kong"
+
+- name: "HKIER, CUHK"
+  url: "https://www.hkier.cuhk.edu.hk/en/index.asp"
+  title: "Hong Kong Institute of Educational Research, CUHK"
+
+- name: "CGBA, LUHK"
+  url: "https://www.ln.edu.hk/cgba/"
+  title: "Joint Research Centre for Greater Bay Area Social Policy and Governance, LUHK"
+
+- name: "CERC, HKU"
+  url: "https://cerc.edu.hku.hk/"
+  title: "Comparative Education Research Centre, HKU"
+
+- name: "IGHKMDS, SYSU"
+  url: "http://ygafz.sysu.edu.cn/"
+  title: "粤港澳发展研究院, 中山大学"

@@ -1,0 +1,18 @@
+{%capture phone%} <a href="tel:{{site.data.centre_info.tel}}">({{site.data.centre_info.tel|slice:1, 3}}) {{site.data.centre_info.tel | slice:4, 11}}</a> {%endcapture%}
+{%capture email%} <a href="mailto:{{site.data.centre_info.email}}">{{site.data.centre_info.email}}</a> {%endcapture%}
+
+{% if include.short %}
+<ul class="no-bullet">
+    <li>{{site.data.centre_info.name.short}}</li>
+    <li>{{site.data.centre_info.address.short}}</li>
+    <li>{{ phone }} | {{ email }}</li>
+</ul>
+{% else %}
+<ul class="no-bullet">
+    <li>{{site.data.centre_info.name.full}}</li>
+    <li>{{site.data.centre_info.address.full}}</li>
+    <li>{{ phone }}, {{ email }}</li>
+    
+</ul>
+{%endif%}
+
