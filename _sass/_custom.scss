@@ -5,13 +5,24 @@
 .member-title {
   font-family: $font-family-serif;
   font-size: $font-size-h4;
+  color: $primary-color;
 }
     
 .member-position {
-  color: $primary-color;
   font-weight: $font-weight-bold;
+  color: $ci-1;
 }
 
 .member-abstract {
   color: $text-color;
+}
+
+.nav-logo {
+  height: 50px;
+  background-color: $topbar-bg;
+  border-radius: 0px;
+}
+
+.masthead-title{
+  background: rgba(0,0,0,0.5);
 }

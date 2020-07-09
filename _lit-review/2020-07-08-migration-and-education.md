@@ -12,12 +12,13 @@ image:
    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
 header:
    title: Migration, education and labour
-   image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+   image_fullwidth: "litre-mig-edu-banner.jpg"
 priority: 1
 ---
 {: #toc }
 *  TOC
 {:toc .no-bullet}
+
 
 ## Introduction
 <small markdown="1">[Up to table of contents](#toc)</small>
@@ -47,6 +48,7 @@ Est dolore Lorem consectetur eu magna adipisicing excepteur nisi aliqua in. Adip
 ## Migration
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
+
 1. {% cite li2007cross %} drawn data from questionnaires and interview from HKU, HKUST, MU and MUST discuss the pull and push factors of cross-border higher education Chinese student in Hong Kong and Macau.
 
    - They suggest that mainland students in Macau valued economic factors such as economic income and competitive ability in the employment market more than their counterparts in Hong Kong where they emphasis on academic enhancement and social/cultural experience
@@ -81,7 +83,7 @@ Est dolore Lorem consectetur eu magna adipisicing excepteur nisi aliqua in. Adip
    - Their model predicts that individuals who were younger, did not have children and elderly household members, and were engaged in non-agricultural work were more likely to migrate away from their original province, regardless of their skill levels.
    - Less-skilled migrants tended to leave areas with a large population, a small non-agricultural sector, a high unemployment rate, and a small amount of foreign investment
    - Skilled migrants tended to leave areas with a small population, an excessive supply of university graduates, a small non-agricultural sector, and a low wage level.
-
+{% include figure file="mig-flow-shen-liu2016.jpg" caption="The 30 largest flows of migration, 2000–2005" source="Shen & Liu, 2016" width="80%" %}
 7. {% cite yuen2017studying %} focus on Mainland students who have completed teacher education programmes in Hong Kong and then served as teachers in Hong Kong schools (Mainland teachers). They discussed the attraction of them to stay and work in Hong Kong and the challenges they faced.
 
    - They found the most highly rated extrinsic motives to settle in Hong Kong were higher salaries, better career paths, and the international environment. A better quality of life and political freedom are also mentioned.

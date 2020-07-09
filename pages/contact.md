@@ -2,8 +2,8 @@
 layout: page-fullwidth
 meta_title: "Contact"
 header:
-    title: Contact
-    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+    # title: ''
+    image_fullwidth: contact-banner.jpg
 permalink: "/contact/"
 ---
 <div class="row t60">

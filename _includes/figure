@@ -1,0 +1,12 @@
+{%comment%}
+* your local file name should not contain http, otherwise it will be treated as url
+{%endcomment%}
+
+<figure class="text-center">
+   <img class="card" src="{% if include.url%}{{include.url}}{%else%}{{site.urlimg}}{{ include.file }}{%endif%}" alt="{{ include.alt }}" style="width:{%if include.width%}{{include.width}}{%else%}100%{%endif%}"/>
+   {% if include.caption %}
+   <figcaption>
+      {{ include.caption }}, {% if include.source %}<i>source: {{ include.source}}</i>{% endif %}
+   </figcaption>
+   {% endif %}
+</figure>
