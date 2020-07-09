@@ -83,7 +83,9 @@ Est dolore Lorem consectetur eu magna adipisicing excepteur nisi aliqua in. Adip
    - Their model predicts that individuals who were younger, did not have children and elderly household members, and were engaged in non-agricultural work were more likely to migrate away from their original province, regardless of their skill levels.
    - Less-skilled migrants tended to leave areas with a large population, a small non-agricultural sector, a high unemployment rate, and a small amount of foreign investment
    - Skilled migrants tended to leave areas with a small population, an excessive supply of university graduates, a small non-agricultural sector, and a low wage level.
+
 {% include figure file="mig-flow-shen-liu2016.jpg" caption="The 30 largest flows of migration, 2000–2005" source="Shen & Liu, 2016" width="80%" %}
+
 7. {% cite yuen2017studying %} focus on Mainland students who have completed teacher education programmes in Hong Kong and then served as teachers in Hong Kong schools (Mainland teachers). They discussed the attraction of them to stay and work in Hong Kong and the challenges they faced.
 
    - They found the most highly rated extrinsic motives to settle in Hong Kong were higher salaries, better career paths, and the international environment. A better quality of life and political freedom are also mentioned.
