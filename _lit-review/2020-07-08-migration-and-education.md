@@ -8,8 +8,6 @@ tags:
     - education
     - labour
 breadcrumb: true
-image:
-   thumb: "unsplash_brooklyn-bridge-thumb.jpg"
 header:
    title: Migration, education and labour
    image_fullwidth: "litre-mig-edu-banner.jpg"

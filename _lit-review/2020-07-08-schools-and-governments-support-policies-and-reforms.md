@@ -9,11 +9,9 @@ tags:
     - Governments cooperation/reform
     - Schools cooperation/reform
     - Supportive policies
-image:
-   thumb: "unsplash_brooklyn-bridge-thumb.jpg"
 header:
     title: Schools and governments support policies and reforms
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    image_fullwidth: "sch-gov-policy-banner.jpg"
 teaser: |
     Given the children well-being is inevitably influenced by the parents' decision, school and governmental supports and additional managements are required to cater the rising need.
 priority: 3

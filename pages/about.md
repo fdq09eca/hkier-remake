@@ -5,7 +5,7 @@ subheadline: "Subheadline here"
 teaser: "Some background of the centre"
 permalink: "/about/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "about-banner.jpg"
 ---
 
 {{ site.description }}

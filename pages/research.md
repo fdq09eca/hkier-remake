@@ -5,7 +5,7 @@ subheadline: ""
 teaser: ""
 permalink: "/research/"
 header:
-    image_fullwidth: "header_unsplash_8.jpg"
+    image_fullwidth: "our-research-banner.jpg"
 ---
 
 The <abbr title="Guangdong Hong Kong Macau Greater Bay Area">GBA</abbr> policy inevitably tightens the relationship between GuangDong cities, HK and Macau. With the increasing frequency of cooperation between educational institutions and governments, the <abbr title="Guangdong Hong Kong Macau Greater Bay Area">GBA</abbr> labour market composition will have significant adjustment. For example, cities are expected to develop their specialised labour division so as to improve the economic performance and business efficiency. The change of production, on one hand, surges the demand of the respective talent, on the other hand, it effectively changes the demographic composition. 

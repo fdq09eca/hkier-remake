@@ -8,12 +8,12 @@ tags:
     - migrant youth/students
     - health
     - wellbeing
-image:
-   thumb: "unsplash_brooklyn-bridge-thumb.jpg"
+# image:
+#    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
 teaser: ''
 header:
    title: Migrant youth and students health and wellbeing
-   image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+   image_fullwidth: youth-student-wellbeing-banner.jpg
 priority: 2
 ---
 {: #toc }
