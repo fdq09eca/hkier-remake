@@ -20,11 +20,14 @@ priority: 1
 {:toc .no-bullet}
 
 ## Introduction
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
 
 Est dolore Lorem consectetur eu magna adipisicing excepteur nisi aliqua in. Adipisicing ipsum nostrud adipisicing eiusmod sit. Occaecat minim aute ex culpa dolor. Cupidatat dolore exercitation et ullamco non eu et enim.
 
-## Human Capital {#human-caption}
-
+## Human Capital
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
 1. {%cite wei2008role%} examined empirically the role of human capital on China's economic growth.
 
    - They previously used provincial data from 1996 to 2004 which showed an insignificant effect of human capital and a sizeable and significant effect of fixed capital investment on economic development.
@@ -41,8 +44,9 @@ Est dolore Lorem consectetur eu magna adipisicing excepteur nisi aliqua in. Adip
 5. {%cite fraumeni2019regional%}
 6. {%cite li2019skill%}
 
-## Migration {#migrant}
-
+## Migration
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
 1. {% cite li2007cross %} drawn data from questionnaires and interview from HKU, HKUST, MU and MUST discuss the pull and push factors of cross-border higher education Chinese student in Hong Kong and Macau.
 
    - They suggest that mainland students in Macau valued economic factors such as economic income and competitive ability in the employment market more than their counterparts in Hong Kong where they emphasis on academic enhancement and social/cultural experience
@@ -94,7 +98,8 @@ Est dolore Lorem consectetur eu magna adipisicing excepteur nisi aliqua in. Adip
 10. {% cite tan2020temporary %} used participant observations and semi-structured interviews to suggests that the temporary status of migrants and fast-paced work schedules of manufacturing factories limit migrants’ options for after-work leisure activities both spatially and temporally.
 
 ## Return to education {#edu-re}
-
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
 1. {% cite whalley2014regional %} using education as a measure of skill, they draw on data from 1995, 2002 and 2007 China household income project (CHIP) to estimate skill premia at the province and/or prefecture (or city) levels.
 
    - They found although skill premia increased in nearly all provinces between 1995 and 2002, there was not such increase be-tween 2002 and 2007 except in the coastal provinces.
@@ -139,4 +144,6 @@ Est dolore Lorem consectetur eu magna adipisicing excepteur nisi aliqua in. Adip
    - Wage premium for workers with good English skills (speaking and listening) is 30%
 
 ## References
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
 {% bibliography  --cited %}

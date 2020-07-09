@@ -105,7 +105,7 @@ defaults:
       show_meta: false # Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow # Default author for pages
+      author: webadmin # Default author for pages
   - scope:
       path: ""
       type: "posts"
@@ -113,7 +113,7 @@ defaults:
       show_meta: true # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow # Default author for posts
+      author: webadmin # Default author for posts
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
@@ -176,9 +176,9 @@ og_type: "website"
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-socialmedia:
-  twitter: phlow
-  facebook: phlow.media
+# socialmedia:
+#   twitter: phlow
+#   facebook: phlow.media
 
 #        ____  _
 #       / __ \(_)________ ___  _______
@@ -189,7 +189,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+disqus_shortname: rcepd-gba-hkier-cuhk
 
 #      _____
 #     / ___/____ ___________
@@ -254,9 +254,5 @@ theme: jekyll-theme-cayman
 
 collections:
   lit-review:
-    order:
-      - 2020-07-08-migration-and-education.md
-      - 2020-07-08-migrant-students-youth-health-wellbeing.md
-      - 2020-07-08-schools-and-governments-support-policies-and-reforms.md
     output: true
-    permalink: "/research/:name"
+    permalink: "/research/litre-:name"

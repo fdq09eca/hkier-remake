@@ -49,17 +49,9 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Research Consortium on Education Policy and Development in the Greater Bay Area">
 	
-	<meta property="article:author" content="https://www.facebook.com/phlow.media">
+	
 
 
-	
-	<!-- Twitter -->
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="phlow">
-	<meta name="twitter:creator" content="phlow">
-	<meta name="twitter:title" content="RSS Feed (Styled)">
-	<meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore">
-	
 	
 
 	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
