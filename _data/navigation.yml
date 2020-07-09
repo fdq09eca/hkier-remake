@@ -74,9 +74,9 @@
   - title: "Blog Archive"
     url: "/news/archive/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
+# - title: "Search"
+#   url: "/search/"
+#   side: right
 
 - title: "Contact"
   url: "/contact/"
