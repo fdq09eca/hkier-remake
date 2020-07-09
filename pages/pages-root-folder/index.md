@@ -52,8 +52,8 @@ homepage: true
   <a class="close-reveal-modal">&#215;</a>
 </div> -->
 
-# {{site.title}}
-
+<!-- # {{site.title}} -->
+<div class="pr20 pl20">
 <div class="row">
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
@@ -79,4 +79,4 @@ homepage: true
       <img class="t30" src="{{ site.urlimg }}gallery-example-8.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
-</div><!-- /.row -->
+</div></div><!-- /.row -->
