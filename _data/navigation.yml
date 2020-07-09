@@ -67,7 +67,7 @@
 #   - title: "Roadmap"
 #     url: "/roadmap/"
 
-- title: Blog
+- title: News
   url: "/news/"
   side: left
   dropdown:
