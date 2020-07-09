@@ -1,16 +1,16 @@
-- title: Home
-  url: "/"
-  side: left
+# - title: Home
+#   url: "/"
+#   side: right
 
 - title: About
   url: "/about/"
-  side: left
+  side: right
   dropdown:
   - title: "Our members"
     url: "/about/#our-members"
 - title: Reseach
   url: "/research/"
-  side: left
+  side: right
   dropdown:
   - title: "literature review"
     url: "/research/#lit-review"
@@ -69,7 +69,7 @@
 
 - title: News
   url: "/news/"
-  side: left
+  side: right
 
 # - title: "Search"
 #   url: "/search/"
@@ -77,8 +77,8 @@
 
 - title: "Contact"
   url: "/contact/"
-  side: left
+  side: right
 
 - title: "Docs Archive"
   url: "/docs/archive/"
-  side: left
+  side: right
