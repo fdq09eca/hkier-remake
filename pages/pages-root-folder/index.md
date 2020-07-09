@@ -19,7 +19,7 @@ widget2:
   text: Our Research themes, progress and results.
 widget3:
   title: "News"
-  url: "/blog/"
+  url: "/news/"
   image: latest-news-thumbnail.jpg
   text: Our latest plan and activities.
 #
