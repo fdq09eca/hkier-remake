@@ -257,3 +257,6 @@ collections:
   lit-review:
     output: true
     permalink: "/research/litre-:name"
+  docs:
+    output: true
+    permalink: "/docs/litre-:name"

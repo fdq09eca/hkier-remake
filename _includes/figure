@@ -3,10 +3,9 @@
 {%endcomment%}
 
 <figure class="text-center">
-   <img class="card" src="{% if include.url%}{{include.url}}{%else%}{{site.urlimg}}{{ include.file }}{%endif%}" alt="{{ include.alt }}" style="width:{%if include.width%}{{include.width}}{%else%}100%{%endif%}"/>
-   {% if include.caption %}
+   <img class="card" src="{% if include.url%}{{include.url}}{%else%}{{site.urlimg}}{{ include.file }}{%endif%}" alt="{{ include.caption }}-{{ include.source }}" style="width:{%if include.width%}{{include.width}}{%else%}80%{%endif%}"/>
    <figcaption>
-      {{ include.caption }}, {% if include.source %}<i>source: {{ include.source}}</i>{% endif %}
+      {{ include.caption }}{% if include.source %} <i>Source: {{ include.source}}</i>{% endif %}
    </figcaption>
-   {% endif %}
+   
 </figure>

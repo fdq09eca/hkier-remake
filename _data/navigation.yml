@@ -70,9 +70,6 @@
 - title: News
   url: "/news/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/news/archive/"
 
 # - title: "Search"
 #   url: "/search/"
@@ -80,4 +77,8 @@
 
 - title: "Contact"
   url: "/contact/"
+  side: left
+
+- title: "Docs Archive"
+  url: "/docs/archive/"
   side: left
