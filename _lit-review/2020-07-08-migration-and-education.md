@@ -17,7 +17,7 @@ priority: 1
 *  TOC
 {:toc .no-bullet}
 
-<div class="pl20 pr20">
+
 ## Introduction
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
@@ -149,6 +149,6 @@ Est dolore Lorem consectetur eu magna adipisicing excepteur nisi aliqua in. Adip
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
-
+<div style="overflow-wrap: break-word;">
 {% bibliography  --cited %}
 </div>

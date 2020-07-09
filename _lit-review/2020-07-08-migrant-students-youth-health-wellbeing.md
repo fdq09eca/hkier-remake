@@ -85,5 +85,6 @@ The expected labour migration to GBA are not necessarily skilled labour exclusiv
 ## References
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
-{% bibliography  --cited %} 
-
+<div style="overflow-wrap: break-word;">
+{% bibliography  --cited %}
+</div>

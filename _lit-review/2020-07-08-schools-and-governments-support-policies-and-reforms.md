@@ -34,4 +34,6 @@ Dolor occaecat mollit aute sit ut occaecat esse enim ullamco aliquip. Est eu iru
 
 ## References
 <small markdown="1">[Up to table of contents](#toc)</small>
+<div style="overflow-wrap: break-word;">
 {% bibliography  --cited %}
+</div>
